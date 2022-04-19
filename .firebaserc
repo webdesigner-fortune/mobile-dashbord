@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "addis-fortune-ando-v5-10",
+    "production": "mobile-dashboard-2de74"
+  },
+  "targets": {}
+}
